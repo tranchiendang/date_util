@@ -1,0 +1,25 @@
+{
+  "name": "date_util",
+  "version": "1.0.0",
+  "description": "add more function to date methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tranchiendang@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranchiendang/date_util.git"
+  },
+  "keywords": [
+    "date"
+  ],
+  "bugs": {
+    "url": "https://github.com/tranchiendang/date_util/issues"
+  },
+  "homepage": "https://github.com/tranchiendang/date_util#readme"
+}
